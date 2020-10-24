@@ -1,0 +1,26 @@
+.Menu{
+background-color: blue;
+overflow: hidden;
+
+}
+.Menu a {
+float: left;
+color: #f2f2f2;
+text-align: center;
+padding: 10px;
+text-decoration:none;
+font-family:sans-serif;
+
+
+
+
+}
+body{
+	background:gray;
+	margin:0;
+	border:0;
+	
+}
+.Menu a:hover{
+	background:orange;
+}

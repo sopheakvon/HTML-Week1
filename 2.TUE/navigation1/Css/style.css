@@ -1,0 +1,13 @@
+.Menu{
+background-color: green;
+overflow: hidden;
+
+}
+.Menu a {
+float: left;
+color: #f2f2f2;
+text-align: center;
+padding: 14px;
+text-decoration:none;
+font-size: 17px;
+}

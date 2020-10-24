@@ -1,0 +1,27 @@
+.Menu{
+background-color:lightblue;
+overflow: hidden;
+
+}
+.Menu a {
+float: left;
+color: #f2f2f2;
+text-align: center;
+padding: 10px;
+text-decoration:none;
+font-family:sans-serif;
+}
+
+.Menu a:hover{
+	background:orange;
+}.Header{
+	background:blue;
+	text-align:center;
+	color:#f2f2f2;
+	font-family:sans-serif;
+	height:30vh;
+	justify-content: Center;
+	display : flex;
+	align-items:center;
+
+}
